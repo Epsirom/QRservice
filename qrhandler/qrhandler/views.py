@@ -6,6 +6,8 @@ import Image
 
 
 def get_qr_code(request, qrmsg):
+    if request.GET:
+        return HttpResponse(request.GET.get('test', 'hello') + '\r\n' + qrmsg);
     qr = qrcode.QRCode(
         version=1,
         error_correction=qrcode.constants.ERROR_CORRECT_L,
