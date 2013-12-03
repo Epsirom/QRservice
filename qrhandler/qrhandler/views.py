@@ -2,7 +2,7 @@ __author__ = 'Epsirom'
 
 from django.http import HttpResponse, Http404
 import qrcode
-import Image
+from PIL import Image
 
 
 def get_qr_code(request, qrmsg):
