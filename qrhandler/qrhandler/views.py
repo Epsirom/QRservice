@@ -5,7 +5,7 @@ import qrcode
 from PIL import Image
 
 
-def get_qr_code(request, qrmsg):
+def get_qr_code(request, qrmsg, type):
     if request.GET:
         return HttpResponse(request.GET.get('test', 'hello') + '\r\n' + qrmsg);
     qr = qrcode.QRCode(
@@ -17,10 +17,13 @@ def get_qr_code(request, qrmsg):
     qr.add_data(qrmsg)
     qr.make(fit=True)
     img = qr.make_image()
-    (x, y) = img.size
-    newImg = Image.new('RGBA', (x * 22 / 10, x), (255, 255, 255))
-    newImg.paste(img, (x * 6 / 10, 0))
     response = HttpResponse(mimetype='image/png')
-    newImg.save(response, 'png')
+    if type == 'wide':
+        (x, y) = img.size
+        newImg = Image.new('RGBA', (x * 22 / 10, x), (255, 255, 255))
+        newImg.paste(img, (x * 6 / 10, 0))
+        newImg.save(response, 'png')
+    else:
+        img.save(response, 'png')
     return response
 

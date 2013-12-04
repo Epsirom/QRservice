@@ -2,19 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="166c15d2-da7e-46cd-b856-2ae827411ba2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qrhandler/qrhandler/urls.py" afterPath="$PROJECT_DIR$/qrhandler/qrhandler/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qrhandler/qrhandler/views.py" afterPath="$PROJECT_DIR$/qrhandler/qrhandler/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="QRservice.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386097843803" ignored="false" />
+    <file path="/Dummy.txt" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386142206414" ignored="false" />
     <file path="/app.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386079449083" ignored="false" />
     <file path="/requirements.txt" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386079546625" ignored="false" />
-    <file path="/urls.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386080045347" ignored="false" />
-    <file path="/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386096611646" ignored="false" />
+    <file path="/urls.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386142051703" ignored="false" />
+    <file path="/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386142114868" ignored="false" />
     <file path="/settings.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386096627987" ignored="false" />
-    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386097840213" ignored="false" />
-    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/activitytext.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386097840213" ignored="false" />
-    <file path="$PROJECT_DIR$/../TsinghuaTuan/queryhandler/tickethandler.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386095971893" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386100987656" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/activitytext.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141493786" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/queryhandler/tickethandler.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141666550" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386098161504" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/validation.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386102317956" ignored="false" />
+    <file path="/validation.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386102317063" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/static/js/validation.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386102185198" ignored="false" />
+    <file path="/validation.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386101533736" ignored="false" />
+    <file path="/activitytext.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386101514416" ignored="false" />
+    <file path="/tickethandler.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141666550" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/activityticket.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141493786" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/mobile_base.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141493786" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/activitydetails.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141493786" ignored="false" />
+    <file path="/.gitignore" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386142225785" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +48,7 @@
     <favorites_list name="QRservice" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="43" selection-start="523" selection-end="523" vertical-scroll-proportion="0.5797101">
-              <folding>
-                <element signature="e#24#69#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -65,10 +68,11 @@
       <list>
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/qrhandler/qrhandler/settings.py" />
         <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/qrhandler/qrhandler/urls.py" />
-        <option value="$PROJECT_DIR$/qrhandler/qrhandler/settings.py" />
         <option value="$PROJECT_DIR$/qrhandler/qrhandler/views.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -195,6 +199,29 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QRservice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,17 +293,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="780" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25322813" sideWeight="0.669697" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26040173" sideWeight="0.669697" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33030304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33030304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -348,6 +375,11 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/local.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -368,52 +400,45 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="45" selection-end="45" vertical-scroll-proportion="0.07653061" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="31" selection-end="31" vertical-scroll-proportion="0.072115384">
-          <folding />
-        </state>
+        <state line="2" column="13" selection-start="31" selection-end="31" vertical-scroll-proportion="0.072115384" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="628" selection-end="628" vertical-scroll-proportion="0.68509614">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file:///Library/Python/2.7/site-packages/PIL/Image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.036057692">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.036057692" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="55" selection-end="55" vertical-scroll-proportion="0.072115384">
-          <folding />
-        </state>
+        <state line="2" column="13" selection-start="55" selection-end="55" vertical-scroll-proportion="0.072115384" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="64" selection-end="64" vertical-scroll-proportion="0.094936706" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="417" selection-end="417" vertical-scroll-proportion="0.28481013" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="43" selection-start="523" selection-end="523" vertical-scroll-proportion="0.5797101">
-          <folding>
-            <element signature="e#24#69#0" expanded="true" />
-          </folding>
+        <state line="11" column="18" selection-start="289" selection-end="289" vertical-scroll-proportion="0.13043478" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.023734177">
+          <folding />
         </state>
       </provider>
     </entry>
