@@ -2,34 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="166c15d2-da7e-46cd-b856-2ae827411ba2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qrhandler/qrhandler/urls.py" afterPath="$PROJECT_DIR$/qrhandler/qrhandler/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qrhandler/qrhandler/views.py" afterPath="$PROJECT_DIR$/qrhandler/qrhandler/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="QRservice.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386142206414" ignored="false" />
-    <file path="/app.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386079449083" ignored="false" />
+    <file path="/Dummy.txt" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387254273088" ignored="false" />
+    <file path="/app.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387106752993" ignored="false" />
     <file path="/requirements.txt" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386079546625" ignored="false" />
-    <file path="/urls.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386142051703" ignored="false" />
-    <file path="/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386142114868" ignored="false" />
-    <file path="/settings.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386096627987" ignored="false" />
-    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386100987656" ignored="false" />
+    <file path="/urls.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387109142060" ignored="false" />
+    <file path="/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387254699659" ignored="false" />
+    <file path="/settings.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387254719735" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387109152049" ignored="false" />
     <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/activitytext.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141493786" ignored="false" />
-    <file path="$PROJECT_DIR$/../TsinghuaTuan/queryhandler/tickethandler.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141666550" ignored="false" />
-    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386098161504" ignored="false" />
-    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/validation.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386102317956" ignored="false" />
-    <file path="/validation.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386102317063" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/queryhandler/tickethandler.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387110082670" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387096365968" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/validation.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387030818852" ignored="false" />
+    <file path="/validation.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387030818473" ignored="false" />
     <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/static/js/validation.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386102185198" ignored="false" />
     <file path="/validation.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386101533736" ignored="false" />
     <file path="/activitytext.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386101514416" ignored="false" />
-    <file path="/tickethandler.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141666550" ignored="false" />
+    <file path="/tickethandler.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387110053822" ignored="false" />
     <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/activityticket.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141493786" ignored="false" />
     <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/mobile_base.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141493786" ignored="false" />
     <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/templates/activitydetails.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386141493786" ignored="false" />
     <file path="/.gitignore" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386142225785" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/static/css/ticket.css" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386142780800" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/static/js/activity_list.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386987046857" ignored="false" />
+    <file path="/activity_list.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386987043938" ignored="false" />
+    <file path="/activity_detail.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387041499839" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/static/js/activity_detail.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387041509517" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/templates/login.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386172484011" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/templates/activity_list.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386991615753" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/urls.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387039891983" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/templates/activity_detail.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387024344938" ignored="false" />
+    <file path="/Django Console" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387109830239" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/weixin_simulator.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387024344938" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/queryhandler/__init__.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387099459263" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/queryhandler/settings.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387099960144" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/checkin_views.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386731866693" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/checkin.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386732321031" ignored="false" />
+    <file path="/checkin.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386732321031" ignored="false" />
+    <file path="/activity_list.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386991615753" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/static/css/activity_list.css" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386752571600" ignored="false" />
+    <file path="/activity_list.css" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386752463515" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/templates/activity_checkin.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386832951426" ignored="false" />
+    <file path="/activity_checkin.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386832928623" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/static/lib/jq/fullscreen/jquery.fullscreen.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386757991370" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/static/js/activity_checkin.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386832773739" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/static/css/activity_checkin.css" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386832512956" ignored="false" />
+    <file path="/activity_checkin.css" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386827567786" ignored="false" />
+    <file path="/activity_checkin.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386832772066" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/static/lib/screenfull/screenfull.min.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386823083371" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/static/lib/screenfull/screenfull.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386823173972" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/urlhandler/models.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387038184093" ignored="false" />
+    <file path="/models.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386985904919" ignored="false" />
+    <file path="/activity_detail.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386987195810" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/templates/adjust_menu.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387011371963" ignored="false" />
+    <file path="/adjust_menu.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387011370651" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/static/js/adjust_menu.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387037928044" ignored="false" />
+    <file path="/adjust_menu.js" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387037926770" ignored="false" />
+    <file path="/adjust_menu.css" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386997099419" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/static/css/adjust_menu.css" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386997104971" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/weixinlib/__init__.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387023344271" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/weixinlib/base_support.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387000431631" ignored="false" />
+    <file path="/base_support.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387000430408" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/weixinlib/settings.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387096263489" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/weixinlib/weixin_urls.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387000414610" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/weixinlib/url_generators.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386999686331" ignored="false" />
+    <file path="/url_generators.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1386999681401" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/weixinlib/custom_menu.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387097636168" ignored="false" />
+    <file path="/custom_menu.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387096440574" ignored="false" />
+    <file path="/__init__.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387099439926" ignored="false" />
+    <file path="/Python Console" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387099740398" ignored="false" />
+    <file path="/fragment.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387014288010" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/templates/activity_base.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387024344938" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/templates/print_ticket.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387024344938" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/adminpage/templates/order_list.html" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387024344938" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/urlhandler/settings.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387094167642" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/localwsgi.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387094135256" ignored="false" />
+    <file path="/localwsgi.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387092846338" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/configurations/nginx/tsinghuatuan.conf" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387091916126" ignored="false" />
+    <file path="/tsinghuatuan.conf" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387091840107" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/configurations/init/tsinghuatuan.conf" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387091840107" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/app.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387106771858" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/urls.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387109143595" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/safe_reverse/__init__.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387108859001" ignored="false" />
+    <file path="$PROJECT_DIR$/../TsinghuaTuan/urlhandler/userpage/safe_reverse.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387109222764" ignored="false" />
+    <file path="/safe_reverse.py" changelist="166c15d2-da7e-46cd-b856-2ae827411ba2" time="1387109221415" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,18 +128,18 @@
       <list>
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/qrhandler/qrhandler/settings.py" />
         <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/qrhandler/qrhandler/urls.py" />
-        <option value="$PROJECT_DIR$/qrhandler/qrhandler/views.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/qrhandler/qrhandler/views.py" />
+        <option value="$PROJECT_DIR$/qrhandler/qrhandler/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="780" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -107,6 +167,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -159,19 +220,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -257,7 +317,9 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="local.py" />
       <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -292,18 +354,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="780" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="775" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26040173" sideWeight="0.669697" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31707317" sideWeight="0.6697108" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39878234" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33030304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33028919" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -372,22 +434,14 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="33" selection-start="366" selection-end="366" vertical-scroll-proportion="0.31914893" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.conf">
@@ -410,16 +464,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.036057692" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="55" selection-end="55" vertical-scroll-proportion="0.072115384" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="17" selection-start="64" selection-end="64" vertical-scroll-proportion="0.094936706" />
@@ -430,15 +474,52 @@
         <state line="12" column="24" selection-start="417" selection-end="417" vertical-scroll-proportion="0.28481013" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="18" selection-start="289" selection-end="289" vertical-scroll-proportion="0.13043478" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.023734177">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.023734177" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1058" column="8" selection-start="31787" selection-end="31787" vertical-scroll-proportion="0.2845787">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0877193">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="33" selection-start="366" selection-end="366" vertical-scroll-proportion="0.5701754">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qrhandler/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="140" selection-end="140" vertical-scroll-proportion="0.29126215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qrhandler/qrhandler/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="25" selection-start="463" selection-end="463" vertical-scroll-proportion="0.4538835">
+          <folding>
+            <element signature="e#24#69#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
