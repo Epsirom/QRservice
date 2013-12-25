@@ -20,8 +20,8 @@ def get_qr_code(request, qrmsg, type):
     response = HttpResponse(content_type='image/png')
     if type == 'wide':
         (x, y) = img.size
-        newImg = Image.new('RGBA', (x * 3, x), (255, 255, 255))
-        newImg.paste(img, (x, 0))
+        newImg = Image.new('RGBA', (x * 7, x), (255, 255, 255))
+        newImg.paste(img, (x * 3, 0))
         newImg.save(response, 'png')
     else:
         img.save(response, 'png')
