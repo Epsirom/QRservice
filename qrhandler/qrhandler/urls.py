@@ -15,7 +15,7 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
 
-    url(r'^(?P<qrmsg>\w+)/$', 'qrhandler.views.get_qr_code', {'type': 'wide'}),
-    url(r'^fit/(?P<qrmsg>\w+)/$', 'qrhandler.views.get_qr_code', {'type': 'fit'}),
+    url(r'^(?P<qrmsg>\w+)/$', 'qrhandler.views.get_qr_code', {'qrtype': 'wide'}),
+    url(r'^fit/(?P<qrmsg>\w+)/$', 'qrhandler.views.get_qr_code', {'qrtype': 'fit'}),
 
 )
